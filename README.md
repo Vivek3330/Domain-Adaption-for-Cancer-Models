@@ -13,7 +13,7 @@ Transfer to patient data (TCGA)
 Comprehensive evaluation with domain invariance metrics
 
 
-Evaluation Metrics
+Evaluation Metric
 1.Regression Metrics (Drug Response Prediction)
 2.MSE: Mean Squared Error
 3.MAE: Mean Absolute Error
