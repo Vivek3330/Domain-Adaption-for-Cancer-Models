@@ -13,12 +13,12 @@ Transfer to patient data (TCGA)
 Comprehensive evaluation with domain invariance metrics
 
 
-Evaluation Metric
-1.Regression Metrics (Drug Response Prediction)
-2.MSE: Mean Squared Error
-3.MAE: Mean Absolute Error
-4.RMSE: Root Mean Squared Error
-5.R²: Coefficient of determination
-6.Pearson/Spearman Correlation: Linear/monotonic relationship strength
-7.Domain Adaptation Metrics
-8.Cross-domain Gap: Performance difference between source and target domains.
+Evaluation Metrics
+Regression Metrics (Drug Response Prediction)
+MSE: Mean Squared Error
+MAE: Mean Absolute Error
+RMSE: Root Mean Squared Error
+R²: Coefficient of determination
+Pearson/Spearman Correlation: Linear/monotonic relationship strength
+Domain Adaptation Metrics
+Cross-domain Gap: Performance difference between source and target domains.
